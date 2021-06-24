@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @LarryNgugi
-- 👀 I’m interested in web design and programming
-- 🌱 I’m currently learning c/c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me larry.josephgithaka@gmail.com
+Hello am @larryngugi
+Software developer
+Intrested in web design and programming
+      Python c/c++ 
+
+Email: larry.josephgithaka@gmail.com
 
 <!---
 LarryNgugi/LarryNgugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
