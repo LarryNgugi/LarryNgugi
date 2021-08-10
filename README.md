@@ -1,9 +1,13 @@
-Hello am @larryngugi
-Software developer
-Intrested in web design and programming
-      Python c/c++ 
 
-Email: larry.josephgithaka@gmail.com
+    👋 Hi, I’m @larryngugi
+    👀 I’m interested in Web Development.
+    🌱 I’m currently learning Golang.
+    📫 Reach me on Twitter at @larryngugi.
+              Python c/c++ 
+
+
+
+
 
 <!---
 LarryNgugi/LarryNgugi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
