@@ -1,7 +1,7 @@
 
     👋 Hi, I’m @larryngugi
     👀 I’m interested in Web Development.
-    🌱 I’m currently learning Golang.
+    🌱 I’m currently learning Node.js.
     📫 Reach me on Twitter at @larryngugi.
               Python c/c++ 
 
